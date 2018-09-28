@@ -11,5 +11,19 @@ function multiply(x,y){
 }
 
 function divide(x,y){
-  return a/b 
+  return x/y
 }
+
+function inc(n){
+  return n++
+}
+
+function dec(n){
+  return n--
+}
+
+function makeInt(n){
+  return parseInt(n)
+}
+
+function 
